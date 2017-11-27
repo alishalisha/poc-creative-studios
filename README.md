@@ -7,6 +7,9 @@ A directory of people-of-color-led creative shops. Inspired by an email thread, 
 | [Barrel NY](https://www.barrelny.com/) | Peter Kang | |
 | [vsby](https://www.vsby.co) | Joey Guerra, Sina Sohrab | |
 | [Morcos Key](http://morcoskey.com/Home) | Wael Morcos | |
+| [Hassan Rahim](http://hassanrahim.com/) | Hassan Rahim | |
+| [Original Champions of Design](http://originalchampionsofdesign.com/) | Bobby C. Martin | |
+| [Grawlix](http://grawlixcreative.com/) | Jessica Paoli | |
 
 
 ## Want to contribute to this list?
