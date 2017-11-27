@@ -5,7 +5,7 @@ A directory of people-of-color-led creative shops. Inspired by an email thread, 
 | ------------- | ------------- | ------------- |
 | [Superfriend.ly](http://superfriend.ly/) | Dan Mall | Product design, strategy |
 | [Barrel NY](https://www.barrelny.com/) | Peter Kang | |
-| [vsby](https://vsby.co) | Joey Guerra, Sina Sohrab | |
+| [vsby](https://www.vsby.co) | Joey Guerra, Sina Sohrab | |
 | [Morcos Key](http://morcoskey.com/Home) | Wael Morcos | |
 
 
