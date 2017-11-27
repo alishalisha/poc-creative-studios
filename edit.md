@@ -4,15 +4,15 @@ A directory of people-of-color-led creative shops. Inspired by an email thread, 
 | Company Name  | People | Capabilities |
 | ------------- | ------------- | ------------- |
 | [Superfriend.ly](http://superfriend.ly/) | Dan Mall | Product design, strategy |
-| [Barrel NY](https://www.barrelny.com/) | Peter Kang | |
-| [vsby](https://www.vsby.co) | Joey Guerra, Sina Sohrab | |
-| [Morcos Key](http://morcoskey.com/Home) | Wael Morcos | |
-| [Hassan Rahim](http://hassanrahim.com/) | Hassan Rahim | |
-| [Original Champions of Design](http://originalchampionsofdesign.com/) | Bobby C. Martin | |
-| [Grawlix](http://grawlixcreative.com/) | Jessica Paoli | |
-| [EA1](https://twitter.com/kenyatta) | Kenyatta | Community, audience development |
-| [Redindhi Studio](http://www.redindhi.com/) | Indhira Rojas |  |
-| [Dupo](http://dupo.is/) | Jacques Dupoux | |
+| [Barrel NY](https://www.barrelny.com/) | Peter Kang | Creative and digital marketing, development |
+| [Visibility](https://www.vsby.co) | Joey Guerra, Sina Sohrab | Industrial design|
+| [Morcos Key](http://morcoskey.com/Home) | Jon Key & Wael Morcos | Graphic design, branding|
+| [Hassan Rahim](http://hassanrahim.com/) | Hassan Rahim | Art direction, branding, design |
+| [Original Champions of Design](http://originalchampionsofdesign.com/) | Bobby C. Martin | Research, strategy, design |
+| [Grawlix](http://grawlixcreative.com/) | Jessica Paoli | Design, strategy, interactive|
+| [EA1](http://ea1.co/) | Kenyatta Cheese, Kevin Slavin, and Molly Templeton | Audience development, social media strategy | 
+| [Redindhi Studio](http://www.redindhi.com/) | Indhira Rojas | Boutique branding and design |
+| [Dupo](http://dupo.is/) | Jacques Dupoux | Design and develpment|
 
 
 ## Want to contribute to this list?
