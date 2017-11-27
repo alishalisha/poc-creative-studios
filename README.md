@@ -10,6 +10,9 @@ A directory of people-of-color-led creative shops. Inspired by an email thread, 
 | [Hassan Rahim](http://hassanrahim.com/) | Hassan Rahim | |
 | [Original Champions of Design](http://originalchampionsofdesign.com/) | Bobby C. Martin | |
 | [Grawlix](http://grawlixcreative.com/) | Jessica Paoli | |
+| [EA1](https://twitter.com/kenyatta) | Kenyatta | Community, audience development |
+| [Redindhi Studio](http://www.redindhi.com/) | Indhira Rojas |  |
+| [Dupo](http://dupo.is/) | Jacques Dupoux | |
 
 
 ## Want to contribute to this list?
