@@ -1,4 +1,4 @@
-# poc-creative-studios
+# People-of-Color-Led Creative Shops
 A directory of people-of-color-led creative shops. Inspired by an email thread, with lots of initial contributions from @carlyayres.
 
 | Company Name  | People | Capabilities |
