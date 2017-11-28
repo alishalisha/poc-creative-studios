@@ -13,7 +13,7 @@ A directory of people-of-color-led creative shops. Inspired by an email thread, 
 | [EA1](http://ea1.co/) | Kenyatta Cheese, Kevin Slavin, and Molly Templeton | Audience development, social media strategy |
 | [Redindhi Studio](http://www.redindhi.com/) | Indhira Rojas | Boutique branding and design |
 | [Dupo](http://dupo.is/) | Jacques Dupoux | Design and develpment|
-
+| [OTHER Studio](http://www.other-studio.com/) | Eileen Tjan | Progressive design and branding |
 
 ## Want to contribute to this list?
 Great! You can contribute in two ways:
