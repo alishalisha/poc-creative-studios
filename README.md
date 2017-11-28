@@ -9,8 +9,8 @@ A directory of people-of-color-led creative shops. Inspired by an email thread, 
 | [Morcos Key](http://morcoskey.com/Home) | Jon Key & Wael Morcos | Graphic design, branding|
 | [Hassan Rahim](http://hassanrahim.com/) | Hassan Rahim | Art direction, branding, design |
 | [Original Champions of Design](http://originalchampionsofdesign.com/) | Bobby C. Martin | Research, strategy, design |
-| [Grawlix](http://grawlixcreative.com/) | Jessica Paoli | Design, strategy, interactive|
-| [EA1](http://ea1.co/) | Kenyatta Cheese, Kevin Slavin, and Molly Templeton | Audience development, social media strategy | 
+| [Oda Creative](https://odacreative.com) | Ndidi Ewuzie & Folasayo Ayoola | Invitation + event design, graphic design, web design |
+| [EA1](http://ea1.co/) | Kenyatta Cheese, Kevin Slavin, and Molly Templeton | Audience development, social media strategy |
 | [Redindhi Studio](http://www.redindhi.com/) | Indhira Rojas | Boutique branding and design |
 | [Dupo](http://dupo.is/) | Jacques Dupoux | Design and develpment|
 
