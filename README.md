@@ -1,5 +1,5 @@
 # People-of-Color-Led Creative Shops
-A directory of people-of-color-led creative shops. Inspired by an email thread, with lots of initial contributions from [@carlyayres](http://twitter.com/carlyayres).
+A directory of people-of-color-led creative studios and shops. Inspired by an email thread, with lots of initial contributions from [@carlyayres](http://twitter.com/carlyayres).
 
 | Company Name  | People | Capabilities |
 | ------------- | ------------- | ------------- |
