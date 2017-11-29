@@ -1,5 +1,5 @@
 # People-of-Color-Led Creative Shops
-A directory of people-of-color-led creative shops. Inspired by an email thread, with lots of initial contributions from [@carlyayres](http://twitter.com/carlyayres).
+A directory of people-of-color-led creative studios and shops. Inspired by an email thread, with lots of initial contributions from [@carlyayres](http://twitter.com/carlyayres).
 
 | Company Name  | People | Capabilities |
 | ------------- | ------------- | ------------- |
@@ -14,7 +14,7 @@ A directory of people-of-color-led creative shops. Inspired by an email thread, 
 | [Redindhi Studio](http://www.redindhi.com/) | Indhira Rojas | Boutique branding and design |
 | [Dupo](http://dupo.is/) | Jacques Dupoux | Design and develpment|
 | [Susie Thai](http://susiethai.com) | Susie Thai | Illustration, motion graphics, art direction, branding |
-
+| [OTHER Studio](http://www.other-studio.com/) | Eileen Tjan | Progressive design and branding |
 
 ## Want to contribute to this list?
 Great! You can contribute in two ways:
