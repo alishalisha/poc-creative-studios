@@ -12,7 +12,11 @@ A directory of people-of-color-led creative shops. Inspired by an email thread, 
 | [Oda Creative](https://odacreative.com) | Ndidi & Folasayo Ayoola | Invitation + event design, graphic design, web design |
 | [EA1](http://ea1.co/) | Kenyatta Cheese, Kevin Slavin, and Molly Templeton | Audience development, social media strategy |
 | [Redindhi Studio](http://www.redindhi.com/) | Indhira Rojas | Boutique branding and design |
-| [Dupo](http://dupo.is/) | Jacques Dupoux | Design and develpment|
+| [Dupo](http://dupo.is/) | Jacques Dupoux | Design and development|
+| [SupremeClientele](http://supremeclientele.co/) | Sarah Huny Young | Design and development |
+| [Tercera](http://tercera.me/) | Sara In&eacute;s Calder&oacute;n | Web and application development | 
+| [Webinista](http://webinista.com) | Tiffany Brown |  Web and application development |
+
 
 
 ## Want to contribute to this list?
